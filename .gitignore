@@ -1,0 +1,10 @@
+# Compilados de Maven y empaquetado WAR
+target/
+*.war
+
+# Configuraciones locales e IDEs (NetBeans / VS Code / IntelliJ)
+nb-configuration.xml
+nbproject/
+.vscode/
+.idea/
+*.iml
